@@ -1,8 +1,4 @@
-Great! Here's the updated `README.md` tailored specifically for your GitHub repo:
 
----
-
-````markdown
 # 🎵 Java Swing MP3 Music Player
 
 A simple desktop MP3 player built using **Java Swing** and **JLayer**. This application lets you open, play, pause, and stop `.mp3` files, with a clean and responsive user interface.
@@ -98,6 +94,6 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to fork or star the repo!
 Made with ❤️ by Ambar , Krish and Ankur 
 
-```
+
 
 ---
