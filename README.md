@@ -20,7 +20,8 @@ A simple desktop MP3 player built using **Java Swing** and **JLayer**. This appl
 
 ## 🖥️ UI Preview
 
-> *(Add a screenshot here to visually represent your app — optional but recommended)*
+![image](https://github.com/user-attachments/assets/620a32a3-bbd0-4045-94eb-1c5f6576f479)
+
 
 ---
 
